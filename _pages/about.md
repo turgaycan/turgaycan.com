@@ -19,6 +19,8 @@ I'm a passionate Software Engineer. I’m interested in solving distributed syst
 - Redis [tool]
 - Spring Boot [framework]
 - Akka [framework]
+- Kubernetes [platform]
+- Openshift [platform]
 
 ## LinkendIn Account 
 
