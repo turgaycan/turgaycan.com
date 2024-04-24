@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I'm a passionate Software Engineer. I’m interested in solving distributed system problems, using Docker, Kubernetes tools, actively developing feature of the products in Inomera.
+I'm a passionate Software Engineer. I’m interested in solving distributed system problems, actively developing system/product/feature of the products in Inomera.
 
 ## Working on
 
-- Design high scalable system architecture
+- Design scalable system architecture
 - Microservice architecture
-- Domain Driven Design
+- Domain driven design
 - Software architecture
 ## Using 
 - Java [lang]
@@ -22,6 +22,3 @@ I'm a passionate Software Engineer. I’m interested in solving distributed syst
 - Kubernetes [platform]
 - Openshift [platform]
 
-## LinkendIn Account 
-
-https://www.linkedin.com/in/turgaycan/
