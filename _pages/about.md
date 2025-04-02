@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a passionate Software Engineer. I’m interested in solving distributed system problems, actively developing system/product/feature of the products in Inomera.
+I'm a passionate Software Engineer. I’m interested in solving distributed system problems, actively developing system/product/feature of the products at Inomera.
 
 ## Working on
 
